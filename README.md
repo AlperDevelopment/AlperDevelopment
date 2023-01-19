@@ -19,5 +19,3 @@
 **Discord:**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/786030589596794891)](https://discord.com/users/786030589596794891)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperDevelopment&theme=tokyonight)
