@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/AlperDevelopment?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AlperDevelopment?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=blue"/></a>
-  <a href="https://github.com/oxince/Simple-View-Counter">
+  <a href="https://github.com/AlperDevelopment/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AlperDevelopment&style=for-the-badge&color=blue"/></a>
 </p>
 
