@@ -1,17 +1,20 @@
 <div align="center" style="margin-bottom: 25px">
-<h5>Hey i'am @AlperDevelopment!<em><br></br>
+<h4>Hey i'am @AlperDevelopment!<em><br></br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=a+Self-taught+full-stack+developer;lua+%3E+javascript;Contact+me+on+Discord+%7C+Alper%230003)](https://git.io/typing-svg)
   
 <p align="center">
   <a href="https://github.com/AlperDevelopment?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AlperDevelopment?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=blue"/></a>
-  <a href="https://github.com/AlperDevelopment/Simple-View-Counter">
+  <a href="https://github.com/AlperDevelopment/">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AlperDevelopment&style=for-the-badge&color=blue"/></a>
 </p>
+  
+[#1 Scripts for FiveM](https://dc.lua-services.xyz/)
 
+---
 
-
-<h5>My Skills<em><br></br>
+<h4>My Skills<em><br></br>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
