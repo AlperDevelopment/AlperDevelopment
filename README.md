@@ -1,21 +1,24 @@
-![](https://komarev.com/ghpvc/?username=AlperDevelopment)
+<div align="center" style="margin-bottom: 25px">
+<h5>Hey i'am @AlperDevelopment!<em><br></br>
 
-<h2>Hey i'm Alper!</h2>
-<p><em></br>
-</em></p>
+  
+<p align="center">
+  <a href="https://github.com/AlperDevelopment?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AlperDevelopment?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=blue"/></a>
+  <a href="https://github.com/oxince/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AlperDevelopment&style=for-the-badge&color=blue"/></a>
+</p>
 
 
 
+<h5>My Skills<em><br></br>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="35" src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-
-
-
-**Discord:**
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/786030589596794891)](https://discord.com/users/786030589596794891)
+<code><img height="50" src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://cdn.discordapp.com/attachments/996581551271850026/1078112347324952696/php.png"></code>
+<code><img height="40" src="https://cdn.discordapp.com/attachments/996581551271850026/1078112763861282856/c-.png"></code>
+<code><img height="40" src="https://cdn.discordapp.com/attachments/996581551271850026/1078112764058406972/c-sharp.png"></code>
