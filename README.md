@@ -23,5 +23,3 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://cdn.discordapp.com/attachments/996581551271850026/1078112347324952696/php.png"></code>
-<code><img height="40" src="https://cdn.discordapp.com/attachments/996581551271850026/1078112763861282856/c-.png"></code>
-<code><img height="40" src="https://cdn.discordapp.com/attachments/996581551271850026/1078112764058406972/c-sharp.png"></code>
