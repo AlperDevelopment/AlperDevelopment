@@ -16,21 +16,27 @@
 
 <h4>Core Competencies & Stack<em><br></br>
 
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux / Debian / Ubuntu"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows Server / Active Directory"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" title="macOS"></code>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker & Containers"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" title="Proxmox VE"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware vSphere"></code>
+<br></br>
 
-<code><img height="45" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" title="Network Analysis / Wireshark"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx / Reverse Proxy"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/pfsense/pfsense-icon.svg" title="pfSense / Firewalls"></code>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="Database Management"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Monitoring & Dashboards"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus"></code>
+<br></br>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+
+<br></br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 
 </div>
 
