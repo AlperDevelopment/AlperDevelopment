@@ -15,6 +15,7 @@
 ---
 <h4>Core Competencies & Stack<em><br></br>
 
+<p align="center"><b>Operating Systems</b></p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 &nbsp;
 <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
@@ -23,6 +24,7 @@
 
 <br><br>
 
+<p align="center"><b>Virtualization & Containers</b></p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 &nbsp;
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
@@ -31,6 +33,7 @@
 
 <br><br>
 
+<p align="center"><b>Networking & Version Control</b></p>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 &nbsp;
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -39,6 +42,7 @@
 
 <br><br>
 
+<p align="center"><b>Automation & Data</b></p>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 &nbsp;
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
