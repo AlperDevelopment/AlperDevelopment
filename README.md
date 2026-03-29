@@ -1,7 +1,7 @@
 <div align="center" style="margin-bottom: 25px">
-<h4>Hey i'am @AlperDevelopment!<em><br></br>
+<h4>Hi, I'm @AlperDevelopment! 🚀<em><br></br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=a+Self-taught+full-stack+developer;lua+%3E+javascript;Contact+me+on+Discord+%7C+Alper%230003)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=System+%26+Network+Administrator;Infrastructure+as+Code+Enthusiast;Securing+Networks+%7C+Managing+Servers;Contact+me+on+Discord+%7C+Alper%230003)](https://git.io/typing-svg)
   
 <p align="center">
   <a href="https://github.com/AlperDevelopment?tab=followers">
@@ -10,16 +10,30 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AlperDevelopment&style=for-the-badge&color=blue"/></a>
 </p>
   
-[#1 Scripts for FiveM](https://dc.lua-services.xyz/)
+[Check out my IT-Solutions](https://dc.lua-services.xyz/)
 
 ---
 
-<h4>My Skills<em><br></br>
+<h4>Core Competencies & Stack<em><br></br>
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="50" src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://cdn.discordapp.com/attachments/996581551271850026/1078112347324952696/php.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows Server"></code>
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" title="Networking"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx / Reverse Proxy"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" title="Proxmox / Virtualization"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL / Database Admin"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Monitoring"></code>
+
+</div>
+
+---
+
+### 🛠️ What I do
+* **Infrastructure:** Designing and maintaining robust server environments (Linux & Windows).
+* **Networking:** Configuring VLANs, Firewalls, and VPN tunnels for secure communication.
+* **Virtualization:** Deploying scalable solutions using Docker and Proxmox/VMware.
+* **Automation:** Streamlining workflows with Bash and PowerShell scripting.
