@@ -16,17 +16,21 @@
 
 <h4>Core Competencies & Stack<em><br></br>
 
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows Server"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux / Debian / Ubuntu"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows Server / Active Directory"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" title="macOS"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" title="Networking"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx / Reverse Proxy"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker & Containers"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" title="Proxmox VE"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware vSphere"></code>
 
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/proxmox/proxmox-icon.svg" title="Proxmox / Virtualization"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" title="Network Analysis / Wireshark"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx / Reverse Proxy"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/pfsense/pfsense-icon.svg" title="pfSense / Firewalls"></code>
 
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL / Database Admin"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Monitoring"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="Database Management"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Monitoring & Dashboards"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus"></code>
 
 </div>
 
